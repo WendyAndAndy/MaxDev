@@ -1,0 +1,8 @@
+D:\git\WendyAndAndy\MaxDev\WF4Max\bin\Release\WF4Max.pdb
+D:\git\WendyAndAndy\MaxDev\WF4Max\obj\Release\WF4Max.MyWindow.resources
+D:\git\WendyAndAndy\MaxDev\WF4Max\obj\Release\WF4Max.Properties.Resources.resources
+D:\git\WendyAndAndy\MaxDev\WF4Max\obj\Release\WF4Max.csproj.GenerateResource.cache
+D:\git\WendyAndAndy\MaxDev\WF4Max\obj\Release\WF4Max.csproj.CoreCompileInputs.cache
+D:\git\WendyAndAndy\MaxDev\WF4Max\obj\Release\WF4Max.pdb
+D:\git\WendyAndAndy\MaxDev\WF4Max\bin\Release\WF4Max.dll
+D:\git\WendyAndAndy\MaxDev\WF4Max\obj\Release\WF4Max.dll
